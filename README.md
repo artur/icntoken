@@ -141,17 +141,11 @@ To get started with ICN development:
    npx hardhat test
    ```
 
-4. Deploy contracts (local network):
+4. Deploy contracts (local network) WIP:
    ```
    npx hardhat run scripts/deploy.js --network localhost
    ```
 
-For more detailed information on setup, testing, and deployment, please refer to our [Developer Documentation](link-to-dev-docs).
-
-## Contributing
-
-We welcome contributions to the Impossible Cloud Network! If you're interested in contributing, please check our [Contribution Guidelines](link-to-contribution-guidelines) for more information.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
